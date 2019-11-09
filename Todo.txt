@@ -1,0 +1,2 @@
+Find Companies with high promoter holdings (> 50 %) and high FII holdigns (> 15 %)
+Find companies with revenue growth of (> 30 %) and Profit greater than 100 Crs
