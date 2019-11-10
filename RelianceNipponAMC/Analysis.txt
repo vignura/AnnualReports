@@ -1,7 +1,7 @@
 --------
 FY 2018:
 --------
-1) We finished 17 months of integration with Goldman Sach Asset management ETF business in India. In the ETF space, RNAM is the 2nd largest player with 17.5% market share.
+1) We finished 17 months of integration with "Goldman Sach Asset management" ETF business in India. In the ETF space, RNAM is the 2nd largest player with 17.5% market share.
 2) Digital Purchases almost doubled in FY 18; we handled approximately 6,45,000 digital purchase transactions in FY 18.
 3) Your company have also partnered with digital service providers such as ET Money, Paisa Bazaar, Cleartax, Moneycontrol and others. For tapping into Bharat we have done tie-up with service providers such as payworld, suvidhaa, paytm, freecharge, fino and others.
 4) Nippon Life Insurance which has investments in 41 Asset management related companies globally to leverage on their tie ups for bringing flows into India.
@@ -11,3 +11,14 @@ FY 2018:
 8) On July 13, 2017, Nippon Life Insurance Company (NLI), an existing equity shareholder holding 44.57% stake in the Company acquired an additional 4.43% stake by way of purchase of equity shares from Reliance Capital Limited (RCL). Post this acquisition, the equity stake of NLI in the Company was increased to 49.00%, and subsequently NLI was also classified as one of the Promoters of the Company along with RCL.
 9) During the year, the Company had allotted 57,60,00,000 number of fully paid up equity shares of face value of ` 10/- each in August 2017 to the Members of the Company in proportion of 1:50.
 10) During the year under review the Company has redeemed all the outstanding 30,00,000 number of preference shares, which were issued by the Company in the previous years.
+
+--------
+FY 2019:
+--------
+1) Debt funds were in the news for dramatic outflow of funds due to defaulting of a few large corporate houses. Such defaults triggered liquidity issues and NBFC crisis resulting in flight to safety. This resulted in debt assets degrowth of 12%.
+2) We continue to have the highest Retail AAUM of ` 89,911 crore driven by a strong on- ground presence and robust distribution network. Further, our retail assets have grown by approx. ` 16,700 crore in the last 12 months – the highest in the Industry.
+3) RNAM is the second- largest ETF player with a market share of approx. 18% (17.5% in FY18) in the segment.
+4) Your Company has been investing in digital assets and has a significant online presence to capture the business of tech-savvy investors. We are happy to inform you that RNAM partnered with "Google" to launch voice based financial transactions, which is a first of its kind in the Industry. Our investments in the digital ecosystem is yielding results and digital purchase transactions, including SIP,rose to 10.85 lakh in FY19 – a growth of 47%. On average, RNAM processed one online purchase transaction every 30 seconds.Over one-third of purchase transactions are happening on our Digital Assets and Integrations.
+5) This year, Reliance AIF launched the Industry’s first Commodity Fund and Offshore Real Estate Fund.
+6) The unique mutual fund investors in the Industry are still below 2 crore compared to India’s population of over 130 crore.
+NOte: EPF has 6 Crore subscribers.
