@@ -1,8 +1,8 @@
-1) Look for the below information in Corporate Information Section (usually at the start)
+1) Corporate Information Section:
     1) Board of Directors
     2) Accounting Firm
     3) Banking Partners
-2) Read Director (/ chairman / MD) Report and look for:
+2) Read Director (/ chairman / MD) Report:
     1) Financial summary, revenue growth, profit growth etc
     2) Reasons for current year's performance
     3) Plans for future
@@ -11,13 +11,36 @@
     2) What are the different products or services
     3) Companies position in market
     4) Look for Credit Rating Change if any
-    5) Look for "It continues to invest in cutting edge technology to improve its operating leverage, risk performance and 	  offer better customer experience." 
-    6) BFL's Annual Report is template for multibagger. It has the following flow in it.
-	1) Starts with what BFL has achieved in current year
-	2) Discusses gobal and regional outllok and how it may affect the company's perfomance
-	3) Consistant rewards to its employees (increase in salary and commisions)
-	4) Every report has now product or service introduced
-	5) Always Aims at being the market leader and not follower and that is how it plans all its products !!!
+    Note: BFL's Annual Report is template for multibagger. It has the following flow in it.
+	    1) Starts with what BFL has achieved in current year
+	    2) Discusses gobal and regional outllok and how it may affect the company's perfomance
+	    3) Consistant rewards to its employees (increase in salary and commisions)
+	    4) Every report has now product or service introduced
+    	5) Always Aims at being the market leader and not follower and that is how it plans all its products !!!
 4) Read the Material Development Section:
 	1) This may contains details like change in shareholding, issue of bonus shares etc
-	
+5) Financial calendar :
+    1) This section would give all the important event's dates.
+    eg, BFL FY2013 Report had a section called "Financial calendar for FY2014" with following information
+        Unaudited first quarter financial results           July 2013
+        Unaudited second quarter financial results          October 2013
+        Unaudited third quarter financial results           January 2014
+        Audited annual results                              May 2014
+        Mailing of annual reports                           June 2014
+        Annual general meeting                              July 2014
+6) Dividend Information:
+        1) Dividend paid this year, change in dividend from last year
+7) Shareholding pattern information:
+        1) Higher FII and Promoter holding's is a positive sign
+        2) Also look for change in share holding like increase or decrease in share holding's of promoter or FII
+           as increase in holdings indicates confidence on the company and decrease indicates otherwise.
+8) Human Resources section:
+        1) HR policies, employee friendliness, increase or decrease of employees. 
+        2) Look for employee strength growth.
+9) Communication to shareholders:
+        1) This section describes the modes of communication to shareholders
+        eg) From BFL FY2014, Quarterly, half yearly and annual financial results are published in Business Standard
+            (all editions) and Kesari (Pune edition) along with the official press release. An abridged version
+            of the financial results is also published in Mint (all editions), Hindustan Times (all editions),
+            Hindu Business Lines (all editions) and Economic Times (all editions). The Company also sends the
+            half–yearly financial results, along with a detailed write–up, to all shareholders. 
