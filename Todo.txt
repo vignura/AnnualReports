@@ -1,3 +1,7 @@
 Find Companies with high promoter holdings (> 50 %) and high FII holdigns (> 15 %)
 Find companies with revenue growth of (> 30 %) and Profit greater than 100 Crs
 Make a report on Bank's Deposit growth vs Credit growth in various years.
+How raising capital through Qualified Institutions Placement or Qualified Institutional Buyers work
+How raising capital through preferential issue of warrants and rights issue works.
+Find the Difference between consumer price inflation vs whole sale price inflation
+Find the correlation between employee count growth and companies revenue and profit growth. 
