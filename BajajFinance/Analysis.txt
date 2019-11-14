@@ -221,3 +221,38 @@ estimates). However, it is perhaps too early to expect this recent uptick in the
 GDP to provide a definite impetus to growth.
 3) The RBI has projected headline inflation to
 remain soft in the near term: 2.4% in Q4 FY2019, 2.9% to 3% in H1 FY2020, and 3.5% to 3.8% in H2 FY2020. It did, however, acknowledge the monsoon risk from El Niño conditions and highlighted uncertainties in oil price movement.
+4) Banking credit continued to post double-digit growth, registering 14.1% increase on-year as of 15 March 2019. However, this growth was still not broad-based. Industrial credit growth continued to remain anaemic, while the service sector and the retail segment saw fairly strong growth in bank credit. However, the healthy credit growth from banks to non-banks was largely nullified by money markets refraining from lending to NBFCs and HFCs during Q3 FY2019.
+5) Despite such excellent outcomes, we at BFL believe that FY2020 may be a challenging year. Our views are based on four factors 
+    (a)	Recent increases in international crude prices;
+    (b)	Some high frequency indicators — such as growth in manufacturing and capital goods, the
+        Index of Industrial Production, auto sales — suggest a significant moderation in activity, amid
+        a slowing global economy;
+    (c)	The possibility of El Niño and its risk to food prices; and
+    (d)	Budgetary and political announcements such as basic minimum income support for the poor,
+        if implemented across-the-board, could result in higher fiscal deficit and inflation.
+6) BFL has adopted the Indian Accounting Standards (Ind AS) for FY2019. This involves giving Ind AS compliant comparatives for FY2018 and as at 1 April 2017 — the last being the date of transition. Accordingly, figures for previous years/periods, have been recast and audited by statutory auditors as per the new accounting standards
+7) BFL crossed a milestone of financing 1 million number of motorcycles in FY2019. (!!!)
+8) BFL has launched two new products in the SME lending business in FY2019, namely used car financing and secured enterprise loans.
+9) Used car financing: BFL offers both refinancing and purchase financing of used cars under this business. Gross deployments in FY2019 were H 300 crore
+10) Secured enterprise loans: Under this business, BFL offers small ticket loans of around H 10 lakh against mortgage of self-occupied residential and commercial property in smaller towns. Gross deployments in FY2019 were H 316 crore, with a closing AUM of H 300 crore. This segment is expected to contribute significantly to SME lending growth over the next few years.
+11) BFL's rural business has also started offering fixed deposit schemes from February 2019. This will
+further widen BFL’s product offerings to rural customers and expand its retail liabilities business.
+12) BFL’s strategy of ‘acquire and cross-sell’ to manage cost and portfolio risk, based on the axiom that an existing customer poses significantly lower credit risk than a new customer, ensures lower risk across portfolios
+13) Several solutions deployed last year using machine learning for predictive insights have yielded positive outcomes. These have given BFL the confidence to commit significant investments to further the use of these new domains in BFL. Here are some examples
+    1) ‘Data as Oil’, an important initiative for FY2019, focuses on large volume of data capture and 
+    its effective utilisations for business and risk management. Significant investments have been
+    committed to strengthen our data lake ecosystem and ML capabilities to enable data mining
+    on semi-structured and unstructured data
+    2) BFL’s entire data ecosystem and analytic workloads are now hosted on Microsoft Azure
+       platform. This allows the flexibility on compute to develop and deploy Big Data workloads.
+    3) Several ‘Design of Experiments’ (DOE) and ‘Proof of Concepts’ (POC) deployed using Machine
+       Learning (ML) for predictive insights have yielded positive outcomes.
+14) This platform has been one of the largest technology reforms for BFL’s voluminous and most dispersed sales financing business. It has the potential to sustain a five-fold increase in scale over current volumes.
+15) Facial recognition: BFL has currently deployed facial recognition technologies in offices and some branches on pilot basis. In future, facial recognition technology will provide a differentiated and frictionless check-in experience to its customers — enabling BFL to identify its customers from a pre-stored customer photograph database and provide seamless product and service offerings. 
+16) Natural language processing (NLP): BFL uses sophisticated technology to process unstructured text onto a structured dataset. With NPL, we can read through digital underwriting notes, derive data variables from plain text based information like chat-bots, and thereby enrich its customer insights.
+17) BFL conducts an annual employee engagement (ESAT) survey, through Aon Hewitt, a global leader in human resource consulting, to gauge the satisfaction of employees in the Company. The ESAT survey, through a series of objective questions, assesses level of satisfaction of employees on three important dimensions: (i) say - employees consistently speak positively about the organisation to co-workers, potential employees and customers; (ii) stay - employees have an intense desire to be a member of the organisation and associate their future with the company; and (iii) strive - employees feel motivated to exert extra effort for the organisation. BFL's ESAT score for FY2019 saw a 4 percent point increase to 89%, putting BFL in the top quartile of employee engagement across all industries in India.
+18) BFL has featured as one of the Best Workplaces in Asia 2019 by Great Place to Work® (GPTW) Institute. BFL has been ranked 9th amongst the ’25 Best Large Workplaces in Asia, 2019‘.
+
+------------
+2019 - 2020:
+------------
