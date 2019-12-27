@@ -1,0 +1,18 @@
+-------
+Don'ts:
+-------
+1) Don't Invest in Government Companies (ie Government's holdings > 50 %)
+    Rationale   : Management of such does not have the enough contorl to take progressive decisions 
+    Example     : Indian oil corp, paid an additional dividend in FY2019 than usual because of pressure from
+                  government, as dividend payout will reduce the share price by that amount on exdate and since 
+                  this dividend could have been used for growth, hence it was one of many reasons that turned away
+                  investors from that stock. (IOC has lost 40 % from FY2018 to FY2020).
+
+2) Don't Invest in Companies that has derivatives.
+    Rationale   : The stocks with derivatives, (ie Futures and Option contracts), are usually largecaps,
+                  and potential for growth in largecaps are limited compared to Midcaps or smallcaps, but
+                  that does not imply that risk in these stock are lower. Large caps with derivatives, during 
+                  economic recessions and slowdowns, have lost marketcap faster than midcaps or smallcaps, as
+                  the stocks with derivatives, there are now upper and lower circuit trating limits.
+    Example     : On 21th Sep 2018, DHFL lost 43 % of it's market cap in single trading day.
+                  (open: 615.15 High: 615.15 close: 350.55 Low: 274.75)
