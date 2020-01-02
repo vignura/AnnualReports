@@ -81,7 +81,18 @@ Don'ts:
                   See it rise over 100 % to over Rs 90 within Oct 2019 and sold it, you would have
                   missed the ride where the share price has raised another 60 % from Rs 95 to Rs 150 
                   in the next one month.
-
+                  
+8) Don't Invest in Companies that cannot retain their employees.
+   
+   Rationale   : If a company fails to retain its Key executives and employees like, its CEO, CFO, Company Secretary, CTO etc,
+                 then, the company cannot sustain growth. As new employees will take their time to reach similar expericence
+                 and productivity levels growth tends to slow down. This may also indicate the lack of cooperation and synergy 
+                 in the company.
+  Example      : Urja Global, a penny stock, has failed to retain its CEOs and CFOs even for short period. The share
+                 has lost 80% from recent high, after making 600+ % gain in FY 2019.
+                 
+                 
+  
 ----
 Dos:
 ----
