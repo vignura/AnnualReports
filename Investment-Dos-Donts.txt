@@ -88,11 +88,17 @@ Don'ts:
                  then, the company cannot sustain growth. As new employees will take their time to reach similar expericence
                  and productivity levels growth tends to slow down. This may also indicate the lack of cooperation and synergy 
                  in the company.
-  Example      : Urja Global, a penny stock, has failed to retain its CEOs and CFOs even for short period. The share
+   Example     : Urja Global, a penny stock, has failed to retain its CEOs and CFOs even for short period. The share
                  has lost 80% from recent high, after making 600+ % gain in FY 2019.
-                 
-                 
-  
+
+9) Don't Invest in a company whose parent group or sliblings are not performing well.
+    
+    Rationale   : Just like a family, the performing company of group will endup covering the debts of the non performing 
+                  ones and hence its growth will slow down untill the entire family of companies perform well. There may be 
+                  a few exception to this rule, but this generally holds true.
+    Example     : The shares Zee Entertainment Enterprise Ltd (ZEEL), part of Essel group, largest media company in india, In 
+                  FY 2019 fell by 50 %, after promoters of Essel group pledged and sold ZEEL shares to cover the debts 
+                  accumulated by infrastructure and real estate arms.                
 ----
 Dos:
 ----
