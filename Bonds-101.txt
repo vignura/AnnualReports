@@ -50,5 +50,10 @@
     operations, M&A, or to expand business. The term is usually applied to longer-term debt instruments, with maturity of at 
     least one year
 
+11) Commercial Papers:
+    Commercial paper is usually sold at a discount from face value and generally carries lower interest repayment rates than 
+    bonds due to the shorter maturities of commercial paper. Typically, the longer the maturity on a note, the higher the 
+    interest rate the issuing institution pays.
+
 
 
