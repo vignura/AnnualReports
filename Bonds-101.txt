@@ -1,3 +1,54 @@
 1) Bonds vs Debenture:
     Bonds are backed up by a collateral or security or a physical asset but Debenture are backed up by the 
     promise made by the issuer.
+
+2) Types of Debentures:
+    The four major types of debentures are,
+    * Secured Debentures
+    * Unsecured Debentures
+    * Convertible Debentures
+    * Non-convertible Debentures
+
+3) Types of Bonds:
+    There are three basic types of bonds: 
+    * Treasury bonds
+    * municipal bonds
+    * corporate bonds
+
+4) Secured Debentures:
+    Secured debentures are debentures secured by a charge on the fixed assets of the issuer company. For instance, 
+    mortgage debentures secured on land of the company.
+
+5) Unsecured Debentures:
+    Unsecured debentures are debentures that are not supported by a collateral security. No specific assets will be set aside   
+    against unsecured debentures. It is basically a loan with out any protection. They are backed only by the general credit 
+    worthiness of the issuer.
+
+6) Convertable Debentures:
+    A convertible debenture is a type of long-term debt issued by a company that can be converted into stock after a specified 
+    period. Convertible debentures are usually unsecured bonds or loans meaning that there is no underlying collateral connected    
+    to the debt.
+
+7) Non-convertible Debentures: 
+    Non-convertible debentures (NCD) are fixed-income instruments, usually issued by high-rated companies in the form of a 
+    public issue to accumulate long-term capital appreciation. They offer relatively higher interest rates when compared to 
+    convertible debentures.
+    Note: Debenture can be secured or unsecured and at the same time can be convertable or non convertable. so there may exist a
+    secured non convertable debentures or an unsecured convertable ones.
+
+8) Treasurey Bonds:
+    A government bond or sovereign bond is a bond issued by a national government, generally with a promise to pay periodic 
+    interest payments called coupon payments and to repay the face value on the maturity date. 
+
+9) Municipal Bonds: 
+    A municipal bond, commonly known as a Muni Bond, is a bond issued by a local government or territory, or one of their 
+    agencies. It is generally used to finance public projects such as roads, schools, airports and seaports, and infrastructure-
+    related repairs.
+
+10) Corporate Bonds:
+    A corporate bond is a bond issued by a corporation in order to raise financing for a variety of reasons such as to ongoing 
+    operations, M&A, or to expand business. The term is usually applied to longer-term debt instruments, with maturity of at 
+    least one year
+
+
+
