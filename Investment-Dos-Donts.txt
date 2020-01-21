@@ -98,7 +98,22 @@ Don'ts:
                   a few exception to this rule, but this generally holds true.
     Example     : The shares Zee Entertainment Enterprise Ltd (ZEEL), part of Essel group, largest media company in india, In 
                   FY 2019 fell by 50 %, after promoters of Essel group pledged and sold ZEEL shares to cover the debts 
-                  accumulated by infrastructure and real estate arms.                
+                  accumulated by infrastructure and real estate arms.  
+
+10) Don't Invest in companies that are run by second or future generation entrepreneurs.
+    
+    Rationale   : Successors of first generation enterpreneurs, generaly lack the drive, the fire, that a first generation
+                  enterpreneur has, which is fundamental for the growth of a company and a company lacking in grwoth potential 
+                  is not worth investing. And if the company is jointly run by more than one future generation enterpreneurs,
+                  it is even more likely to underperform as 'Pride' and 'Ego' is likely to fuel decision making than 'Reason' 
+                  and 'Heart'.
+    
+    Example     : After Dhirubhai Ambani, the Reliance conglomerate was split between the two Ambani brothers, Mukesh and
+                  Anil, and Mukesh Ambani's Reliance Industries (RIL, as of Jan 2020) has grown to become the largest company 
+                  in india but Anil Ambani's listed enterprises (Rcom, Rinfra, Rcapital etc) has lost more than 90% of their
+                  value and deeply in debt.
+                  DHFL run by the 'Wadhawan' brothers after 'Rejesh Wadhawan' lost more than 95 % its market cap in FY 2019
+                  is another example.    
 ----
 Dos:
 ----
